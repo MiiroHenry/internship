@@ -1,2 +1,0 @@
-# internship
-my weekly report
